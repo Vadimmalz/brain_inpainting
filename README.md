@@ -1,7 +1,7 @@
 # brain_inpainting
 
 
-## Academic Context
+## Academic Context 
 
 This project is a copy of an assignment completed as part of an assessment for a course at Imperial College London. 
 ## Assessment description <a name="description"></a>
